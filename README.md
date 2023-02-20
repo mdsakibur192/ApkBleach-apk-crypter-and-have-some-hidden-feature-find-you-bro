@@ -2,6 +2,8 @@
 # apkbleach 2.1
 
 **About:**
+# Video
+https://web.archive.org/web/20210208070719/https://www.youtube.com/watch?v=BNrGd55TBio&gl=US&hl=en
 
 This software was developed specifically for Kali-Linux to obfuscate android payloads in attempts to evade detection. This software also automates the process of changing the app icon, changing the app name, signing the apk, aligning the apk and installing or upgrading apktool.
 
@@ -9,7 +11,6 @@ This software was developed specifically for Kali-Linux to obfuscate android pay
 
 **Youtube instructional video:**
 
-https://web.archive.org/web/20210208070719/https://www.youtube.com/watch?v=BNrGd55TBio&gl=US&hl=en
 [![Watch the video](https://github.com/graylagx2/images/blob/master/Screenshot%20(24).png)](https://www.youtube.com/watch?v=tqgscJ93LFw)
    
 **New Deployment UI feature**
